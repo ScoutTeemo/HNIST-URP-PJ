@@ -22,4 +22,16 @@ http://hiram.wang/
      
      欧朋浏览器：     https://addons.opera.com/zh-cn/extensions/details/tampermonkey-beta/?display=en
 
-安装好后点击右上角图标-管理面板-使用工具，导入两个js文件即可
+安装好后下载项目中两个js文件
+
+点击右上角油猴图标-管理面板-使用工具
+
+![1](https://github.com/HiramWHL/SCU-URP-PJ/blob/master/pic/20190530231011.png)
+![1](https://github.com/HiramWHL/SCU-URP-PJ/blob/master/pic/20190530231026.png)
+![1](https://github.com/HiramWHL/SCU-URP-PJ/blob/master/pic/20190530231033.png)
+
+导入两个js文件即可
+
+在插件中启用两个脚本后，直接登录教务处，访问评教页面即可开始评教：http://zhjw.scu.edu.cn/student/teachingEvaluation/evaluation/index
+
+
