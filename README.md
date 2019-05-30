@@ -34,4 +34,5 @@ http://hiram.wang/
 
 在插件中启用两个脚本后，直接登录教务处，访问评教页面即可开始评教：http://zhjw.scu.edu.cn/student/teachingEvaluation/evaluation/index
 
+需要注意的是，每次评教的两分钟的限制为后端限制无法绕过，因此需要等待较长时间，插件会自动完成填写并提交，只要不关闭页面即可
 
