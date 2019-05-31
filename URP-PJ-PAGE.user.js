@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         URP-PJ-PAGE
-// @namespace    http://tampermonkey.net/
+// @namespace    http://hiram.wang/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  四川大学教务处一键评教
+// @author       Hiram
 // @match        http://zhjw.scu.edu.cn/student/teachingEvaluation/teachingEvaluation/evaluationPage
 // @grant        none
 // ==/UserScript==
@@ -31,10 +31,9 @@
 },5000)
 
  setTimeout(()=>{
-     console.log("POST")
-
- toEvaluation();
-
-},130000)
+      var timeout = setInterval(function () {
+          toEvaluation();
+      },3000);
+},120000)
 
 })();
