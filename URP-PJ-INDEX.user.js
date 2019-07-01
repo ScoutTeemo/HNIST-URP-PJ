@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         URP-PJ-INDEX
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        http://zhjw.scu.edu.cn/student/teachingEvaluation/evaluation/index
+// @namespace    https://github.com/ScoutTeemo/HNIST-URP-PJ
+// @version      0.2
+// @description  湖南理工学院教务处一键评教
+// @author       ScoutTeemo
+// @match        http://bkjw.hnist.cn/student/teachingEvaluation/evaluation/index
 // @grant        none
 // ==/UserScript==
 
